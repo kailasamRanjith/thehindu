@@ -1,0 +1,107 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* src/styles.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+// @import "tailwindcss/base";
+
+// @import "tailwindcss/components";
+
+// @import "tailwindcss/utilities";
+
+
+$primary-color:#B7080D;
+$secondary-color:#75B842;
+
+.primary_color{
+    color:$primary-color;
+}
+
+.primary_bg{
+    background:$primary-color;
+}
+
+.secondary_color{
+    color:$secondary-color;
+}
+
+@media screen and (min-width:768px) {
+    .wrapper{
+        display: grid;
+        position: relative;
+        grid-gap: 10px;
+        grid-template-columns: 25%;
+        grid-template-areas:
+            "sidebar_1 right_1 sidebar_2 right_3"
+            "sidebar_1 right_2 sidebar_2 right_4";
+    }
+    
+    .sidebar_1{
+        grid-area: sidebar_1;
+    }
+    
+    .right_1{
+        grid-area: right_1;
+        height: fit-content;
+        padding-bottom: 15px;
+    }
+    
+    .right_2{
+        grid-area: right_2;
+        position: absolute;
+        top:-180px;
+        // top: -90px;
+    }
+    .sidebar_2{
+        grid-area: sidebar_2;
+    }
+    .right_3{
+        grid-area: right_3;
+        height: fit-content;
+        padding-bottom: 15px;
+    }
+    
+    .right_4{
+        grid-area: right_4;
+        position: absolute;
+        top:-180px;
+        // top: -90px;
+    }
+    
+    
+}
+.subscribe{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 15px;
+    border-top: 1px solid #000;
+    padding: 25px 0 10px 0;
+     button{
+        cursor: pointer;
+        height: 35px;
+        background: #000;
+        padding: 0 15px;
+        border-radius: 7px;
+        color: #fff;
+        font-size: 14px;
+        background:$primary-color
+     }
+}
+
+@media screen and (max-width:768px) {
+    .right_1,.right_2,.right_4,.right_3,.sidebar_1,.sidebar_2{
+        border-bottom: 1px solid #838383;
+        padding: 0 0 10px 0;
+    }
+}
+
+
+body{
+    position: relative;
+}

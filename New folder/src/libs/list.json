@@ -1,0 +1,232 @@
+{
+    "data": [
+        {
+            "type": "One",
+            "data": [
+                {
+                    "image": "/Image1.jpg",
+                    "title": "Congress Crisis",
+                    "sub_title": "Congress attempts reinvention with Bharat Jodo Yatra and a new president",
+                    "content": "The Indian National Congress has faced three major challenges in the current political conjuncture defined by the growing influence of the Right and the polarisation engendered by it.",
+                    "author": "By Ranjani Mazumdar",
+                    "section_name": "BigImage"
+                },
+                {
+                    "heading": "Most Popular in Politics",
+                    "list": [
+                        {
+                            "title": "1969: Banks nationalised as the history shows no mercy",
+                            "author": "By Ranjit Smooth"
+                        },
+                        {
+                            "title": "1969: Banks nationalised as the history shows no mercy",
+                            "author": "By Ranjit Smooth"
+                        },
+                        {
+                            "title": "1969: Banks nationalised as the history shows no mercy",
+                            "author": "By Ranjit Smooth"
+                        },
+                        {
+                            "title": "1969: Banks nationalised as the history shows no mercy",
+                            "author": "By Ranjit Smooth"
+                        },
+                        {
+                            "title": "1969: Banks nationalised as the history shows no mercy",
+                            "author": "By Ranjit Smooth"
+                        },{
+                            "title": "1969: Banks nationalised as the history shows no mercy",
+                            "author": "By Ranjit Smooth"
+                        }
+                    ],
+                    "section_name": "ListSection"
+                }
+            ]
+        },
+        {
+            "type": "Two",
+            "heading":"More Stories",
+            "show_more" : true,
+            "subscribtion":true,
+            "subscribtion_value":{
+                "span": "Stay informed >",
+                "title":"Subscribe for full site access, interviews, slideshows, data stories and exclusive downloads",
+                "button":"Subscribe",
+                "color":"#000"
+            },
+            "data": [
+                {
+                    "image": "/Mask Group 52.png",
+                    "title": "Congress Crisis",
+                    "sub_title": "Congress attempts reinvention with Bharat Jodo Yatra and a new president",
+                    "content": "The Indian National Congress has faced three major challenges in the current political conjuncture defined by the growing influence of the Right and the polarisation engendered by it.",
+                    "author": "By Ranjani Mazumdar",
+                    "section_name": "ImagewithContent",
+                    "grid_area": "side_bar_1"
+                },
+                {
+                    "title": "Congress Crisis",
+                    "sub_title": "Congress attempts reinvention with Bharat Jodo Yatra and a new president",
+                    "content": "The Indian National Congress has faced three major challenges in the current political conjuncture defined by the growing influence of the Right and the polarisation engendered by it.",
+                    "author": "By Ranjani Mazumdar",
+                    "section_name": "ImagewithContent",
+                    "grid_area": "right_1",
+                    "border_bottom": 1
+                },
+                {
+                    "image": "/Mask Group 2915.png",
+                    "title": "Congress Crisis",
+                    "sub_title": "Congress attempts reinvention with Bharat Jodo Yatra and a new president",
+                    "content": "The Indian National Congress has faced three major challenges in the current political conjuncture defined by the growing influence of the Right and the polarisation engendered by it.",
+                    "author": "By Ranjani Mazumdar",
+                    "section_name": "ImagewithContent",
+                    "grid_area": "side_bar_2"
+                },
+                {
+                    "title": "Congress Crisis",
+                    "sub_title": "Congress attempts reinvention with Bharat Jodo Yatra and a new president",
+                    "content": "The Indian National Congress has faced three major challenges in the current political conjuncture defined by the growing influence of the Right and the polarisation engendered by it.",
+                    "author": "By Ranjani Mazumdar",
+                    "section_name": "ImagewithContent",
+                    "grid_area": "right_2"
+                },
+                {
+                    "title": "Congress Crisis",
+                    "sub_title": "Congress attempts reinvention with Bharat Jodo Yatra and a new president",
+                    "content": "The Indian National Congress has faced three major challenges in the current political conjuncture defined by the growing influence of the Right and the polarisation engendered by it.",
+                    "author": "By Ranjani Mazumdar",
+                    "section_name": "ImagewithContent",
+                    "grid_area": "right_3",
+                    "border_bottom": 1
+                },
+                {
+                    "title": "Congress Crisis",
+                    "sub_title": "Congress attempts reinvention with Bharat Jodo Yatra and a new president",
+                    "content": "The Indian National Congress has faced three major challenges in the current political conjuncture defined by the growing influence of the Right and the polarisation engendered by it.",
+                    "author": "By Ranjani Mazumdar",
+                    "section_name": "ImagewithContent",
+                    "grid_area": "right_4"
+                }
+            ]
+        },
+        {
+            "type": "Three",
+            "heading":"In the Magazine",
+            "subscribtion":true,
+            "subscribtion_value":{
+                "title":"Subscribe to our weekly newsletter to stay up-to-date on the in deep news in India.",
+                "button":"Free Sign–Up"
+            },
+            "data": [
+                {
+                    "image": "/img3.png",
+                    "title": "Congress Crisis",
+                    "sub_title": "Congress attempts reinvention with Bharat Jodo Yatra and a new president",
+                    "content": "The Indian National Congress has faced three major challenges in the current political conjuncture defined by the growing influence of the Right and the polarisation engendered by it.",
+                    "author": "By Ranjani Sthogre",
+                    "category": "Cover Story",
+                    "section_name": "ImagewithContent"
+                },
+                {
+                    "image": "/image2.webp",
+                    "section_name": "BookStore"
+                },
+                {
+                    "image": "/img4.png",
+                    "title": "Congress Crisis",
+                    "sub_title": "Congress attempts reinvention with Bharat Jodo Yatra and a new president",
+                    "content": "The Indian National Congress has faced three major challenges in the current political conjuncture defined by the growing influence of the Right and the polarisation engendered by it.",
+                    "author": "By Akanji Smith",
+                    "category": "Politics",
+                    "section_name": "ImagewithContent"
+                },
+                {
+                    "section_name": "ListContent",
+                    "list": [
+                        {
+                            "title": "1969: Banks nationalised as the history shows no mercy",
+                            "category": "Economy",
+                            "author": "By Ranjit Smooth",
+                            "color": "#75B842"
+                        },
+                        {
+                            "title": "Concerns around abortion in India differ from those in the West",
+                            "category": "Column",
+                            "author": "By Ranjani Mazumdar",
+                            "color": "#BAA089"
+                        },
+                        {
+                            "title": "Rampant tourism renders Andaman and Nicobar Islands more fragile",
+                            "category": "Enviroment",
+                            "author": "By Mammoth Gfreth",
+                            "color": "#75B842"
+                        },
+                        {
+                            "title": "Dolo controversy revives demand for regulating pharma marketing",
+                            "category": "Health",
+                            "author": "By Susie Sand",
+                            "color": "#EC6607"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Two",
+            "heading":"If You Missed it in politics",
+            "data": [
+                {
+                    "image": "/img5.png",
+                    "title": "Congress Crisis",
+                    "sub_title": "Congress attempts reinvention with Bharat Jodo Yatra and a new president",
+                    "content": "The Indian National Congress has faced three major challenges in the current political conjuncture defined by the growing influence of the Right and the polarisation engendered by it.",
+                    "author": "By Ranjani Mazumdar",
+                    "section_name": "ImagewithContent",
+                    "grid_area": "side_bar_1"
+                },
+                {
+                    "title": "Congress Crisis",
+                    "sub_title": "Congress attempts reinvention with Bharat Jodo Yatra and a new president",
+                    "content": "The Indian National Congress has faced three major challenges in the current political conjuncture defined by the growing influence of the Right and the polarisation engendered by it.",
+                    "author": "By Ranjani Mazumdar",
+                    "section_name": "ImagewithContent",
+                    "grid_area": "right_1",
+                    "border_bottom": 1
+                },
+                {
+                    "image": "/img6.png",
+                    "title": "Congress Crisis",
+                    "sub_title": "Congress attempts reinvention with Bharat Jodo Yatra and a new president",
+                    "content": "The Indian National Congress has faced three major challenges in the current political conjuncture defined by the growing influence of the Right and the polarisation engendered by it.",
+                    "author": "By Ranjani Mazumdar",
+                    "section_name": "ImagewithContent",
+                    "grid_area": "side_bar_2"
+                },
+                {
+                    "title": "Congress Crisis",
+                    "sub_title": "Congress attempts reinvention with Bharat Jodo Yatra and a new president",
+                    "content": "The Indian National Congress has faced three major challenges in the current political conjuncture defined by the growing influence of the Right and the polarisation engendered by it.",
+                    "author": "By Ranjani Mazumdar",
+                    "section_name": "ImagewithContent",
+                    "grid_area": "right_2"
+                },
+                {
+                    "title": "Congress Crisis",
+                    "sub_title": "Congress attempts reinvention with Bharat Jodo Yatra and a new president",
+                    "content": "The Indian National Congress has faced three major challenges in the current political conjuncture defined by the growing influence of the Right and the polarisation engendered by it.",
+                    "author": "By Ranjani Mazumdar",
+                    "section_name": "ImagewithContent",
+                    "grid_area": "right_3",
+                    "border_bottom": 1
+                },
+                {
+                    "title": "Congress Crisis",
+                    "sub_title": "Congress attempts reinvention with Bharat Jodo Yatra and a new president",
+                    "content": "The Indian National Congress has faced three major challenges in the current political conjuncture defined by the growing influence of the Right and the polarisation engendered by it.",
+                    "author": "By Ranjani Mazumdar",
+                    "section_name": "ImagewithContent",
+                    "grid_area": "right_4"
+                }
+            ]
+        }
+    ]
+}

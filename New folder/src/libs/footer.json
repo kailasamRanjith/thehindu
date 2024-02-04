@@ -1,0 +1,90 @@
+{
+    "data": [
+        {
+           "heading":"Sections",
+           "list":[
+            {"label":"Politics"},
+            {"label":"Economy"},
+            {"label":"Environment"},
+            {"label":"Culture"},
+            {"label":"Sceince & Tech"},
+            {"label":"Health"},
+            {"label":"Law"}
+           ]   
+        },
+        {
+            "heading":"Features",
+            "list":[
+             {"label":"In the Magazine"},
+             {"label":"Spotlight"},
+             {"label":"Photo Essay"},
+             {"label":"Columns"},
+             {"label":"Sceince & Tech"},
+             {"label":"Data Stories"},
+             {"label":"LaLatest News"},
+             {"label":"Most Popular"},
+             {"label":"Editor’s Pick"}
+            ]   
+         },
+         {
+            "heading":"Services",
+            "list":[
+             {"label":"Newsletter Sign–Up"},
+             {"label":"News Archive "},
+             {"label":"Site map"},
+             {"label":"Print Subscription"},
+             {"label":"Digital Subscription"},
+             {"label":"RSS feeds"}
+            ]   
+         },
+         {
+            "heading":"Newsroom",
+            "list":[
+             {"label":"About Us"},
+             {"label":"Contact Us"},
+             {"label":"Customer Care"},
+             {"label":"Careers"},
+             {"label":"Advertise with Us"},
+             {"label":"Download our Apps"}
+            ]   
+         },
+         {
+            "heading":"Other Products",
+            "list":[
+             {"label":"RoofandFloor"},
+             {"label":"STEP"},
+             {"label":"Image"},
+             {"label":"Classifieds"},
+             {"label":"Special Publications"},
+             {"label":"eBooks"},
+             {"label":"The Hindu Coupons"}
+            ]   
+         },
+         {
+            "heading":"Group Sites",
+            "list":[
+             {"label":"The Hindu BL on Campus"},
+             {"label":"Sportstar"},
+             {"label":"Businessline இந்து தமிழ் திசை"},
+             {"label":"The Hindu Centre"},
+             {"label":"Special Publications"},
+             {"label":"Young World Club"},
+             {"label":"The Hindu ePaper"},
+             {"label":"Business Line ePaper"}
+            ]   
+         }
+    ]
+}
+
+ 
+ 
+
+
+ 
+ 
+
+
+     
+        
+
+ 
